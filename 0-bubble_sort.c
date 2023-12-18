@@ -1,7 +1,6 @@
 #include "sort.h"
-
-/*
- * swap - swaps two pointers
+/**
+ * swap - swaps two pointers values
  * @x: first value
  * @y: second value
  */
